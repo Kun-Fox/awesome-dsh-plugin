@@ -1,0 +1,6 @@
+url: https://github.com/Kun-Fox/dsh-foxy-weibo
+name: Kun-Fox/dsh-foxy-weibo
+category: fun
+description:
+  en: Lets Foxy read a target Weibo account's posts on a schedule, comment or reply in comment threads, extract period recaps, and save memories with platform and time metadata.
+  zh: 让 Foxy 按计划阅读目标微博账号的博文，评论或回复楼中楼，按时间段提取回顾，并写入带平台与时间信息的记忆。
